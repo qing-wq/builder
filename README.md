@@ -50,3 +50,4 @@ Developers looking to contribute or customize the platform can find detailed ins
 We welcome contributions! For guidelines on how to contribute to GO+ Builder, please check out our [contribution guide](./docs/contribution/contribution.md).
 
 Join us in making GO+ Builder more accessible and enjoyable for children around the world. Let's code, create, and learn together with GO+ Builder!
+You are stronger girl , very nice.
